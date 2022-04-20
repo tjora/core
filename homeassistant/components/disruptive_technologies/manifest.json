@@ -1,0 +1,17 @@
+{
+  "domain": "disruptive_technologies",
+  "name": "Disruptive Technologies",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/disruptive_technologies",
+  "requirements": [
+    "disruptive==1.2.1"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@tjora"
+  ],
+  "iot_class": "cloud_push"
+}

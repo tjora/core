@@ -393,6 +393,9 @@ directv==0.4.0
 # homeassistant.components.steamist
 discovery30303==0.2.1
 
+# homeassistant.components.disruptive_technologies
+disruptive==1.2.1
+
 # homeassistant.components.doorbird
 doorbirdpy==2.1.0
 
